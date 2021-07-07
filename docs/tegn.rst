@@ -1,3 +1,7 @@
+============
+Tegn-funktion
+============
+
 Tilføj markører, linjer, flader, firkanter og cirkler til dit kort. Under ”Standard stilart for tegninger” kan du sætte farve, linjetyper, pilehoveder mm. Alle nye tegninger får disse indstillinger. Klik på en allerede tegnet figur for at tilføje standardindstillingerne.
 
 Funktionen aktiveres ved at trykke på blyanten i menuen. Når den aktiveres, kommer der en række eks-tra ikoner i den højre del af menuen. 
